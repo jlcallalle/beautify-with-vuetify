@@ -5,6 +5,11 @@ Learn how to create beautiful web apps with Vuetify, a component framework that 
 ## Start Proyect
 
 ``` js
-vue create vuetify-dashboard //proyecto CLI
+vue create vuetify-dashboard //proyecto CLI, default
+ present default
 
+vue add vuetify
+ present default
+
+npm run serve
 ```
